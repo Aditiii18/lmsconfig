@@ -18,5 +18,5 @@ spring:
   h2:
     console:
       enabled: true
-
-
+hello:
+  test: "Hello World!"
